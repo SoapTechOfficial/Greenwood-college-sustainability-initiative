@@ -14,7 +14,7 @@ function animateCounter(id, target) {
     }, 20);
 }
 
-animateCounter("students", 150);
-animateCounter("projects", 12);
-animateCounter("gardensCount", 5);
-animateCounter("goalsCount", 10);
+animateCounter("students", NIL);
+animateCounter("projects", NIL);
+animateCounter("gardensCount", NIL);
+animateCounter("goalsCount", NIL);
